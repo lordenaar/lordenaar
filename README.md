@@ -1,16 +1,15 @@
-### Hi there 👋
+# Kia ora! <img src="wave.gif" width="30px">
 
-<!--
-**lordenaar/lordenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Scott Wardenaar (he/him), which makes me a Software Engineer currently employed as a SRE by Xero that lives in Auckland, Aotearoa New Zealand.
 
-Here are some ideas to get you started:
+### ❤️ I'm into
+Automation and operations, and finding creative ways to streamline processes and eliminate toil. I love the technological abstractions coming out that allow engineers to get out of the weeds and focus their energy on executive and design tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m learning
+- AWS Solutions Architect
+- Kubernetes Administrator
+
+### ⚒️ Technologies & tools
+
+### ✍️ Writing
+
