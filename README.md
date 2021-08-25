@@ -2,9 +2,7 @@
 
 I'm Scott Wardenaar (he/him), which makes me a Software Engineer currently employed as a SRE by Xero living in beautiful Auckland, Aotearoa NZ 🇳🇿
 
-<div align="center">
-<a href="https://www.linkedin.com/in/scottwardenaar"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square.png" alt="drawing" width="30"/></a>
-</div>
+<a href="https://www.linkedin.com/in/swardenaar">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
 ### ❤️ I'm into
 Automation and operations, and finding creative ways to streamline processes and eliminate toil. I love the emerging technological abstractions that allow engineers to get out of the weeds and focus their energy on executive and design tasks.
