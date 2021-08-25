@@ -24,9 +24,9 @@ Automation and operations, and finding creative ways to streamline processes and
 ![](https://img.shields.io/badge/CICD-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 
-### 🎓 Qualified in
-- Kubernetes Application Developer
-- Azure Administrator
+<!-- Certifications -->
+[![Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/badges/3d8c046b-fcad-425f-a099-58a58ffce8fd)
+[![Azure Administrator Associate](https://images.credly.com/size/110x110/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png)](https://www.credly.com/badges/42596c77-6920-4e47-88f2-1b007707e239)
 
 ### 🌱 I’m learning
 - AWS Solutions Architect
